@@ -1,10 +1,10 @@
 export default async function HomePage(){
 
     return(
-        <>
-        
-            <h2>Gallery of work</h2>
+        <div>
 
-        </>
+            <h1 className="text-2xl">Gallery of work</h1>
+
+        </div>        
     );
 }
