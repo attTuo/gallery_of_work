@@ -14,12 +14,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="p-4">
+      <body className="p-2">
 
         <HeaderComponent />
         {children}
         <FooterComponent />
-        
+      
       </body>
     </html>
   )
