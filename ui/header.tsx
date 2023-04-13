@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function HeaderComponent(){
 
     return(
-        <div className="navbar bg-primary text-primary-content">
+        <div className="navbar bg-primary text-primary-content rounded-lg">
             <div className="flex-1">
                 <Link href="/" className="btn btn-ghost normal-case text-xl">Design By Tiikasalo</Link>
             </div>
