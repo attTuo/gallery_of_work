@@ -4,23 +4,21 @@ export default async function AboutPage(){
 
     return(
         <div className="container mx-auto px-5 py-2 lg:px-32 lg:py-4 ">
-            <div className="container mx-auto flex-wrap px-5 py-2 lg:px-16 bg-slate-300 rounded-lg text-center pt-4 pb-6">
-                <div className="-m-1 flex flex-wrap md:-m-2">
-                    <div className="container w-1/2 p-4 pt-6">
+            
+            <div className="bg-slate-300 rounded-lg">
+                <div className="hero-content flex-row">
                         <Image 
-                            className="rounded-lg object-cover object-center w-64 mx-auto"
+                            className="rounded-lg object-cover object-center w-1/2 max-h-96"
                             src="/../public/images/bunny2.jpg" 
                             alt="aboutPicture" 
                             width={1000} height={1000}
-                        />  
-                    </div>
-                    <div className="relative flex w-1/2 flex-col mx-auto p-4 mt-20">
-                        <p className="xl:flex text-2xl mb-2">FirstnameLastname</p>
-                        <p className="xl:flex text-xl mb-2">Interior architect and furniture designer</p>
-                        <p className="xl:flex">email@email.com</p>
-                        <p className="xl:flex">City, Country</p>
-                        <p className="flex"></p>
-                        <button className="absolute bottom-2 right-2 mt-6 bg-blue-400 w-24 h-10 rounded-lg"><a href="#" className="font-bold">Instagram</a></button>
+                        />
+                        <div>
+                    <h1 className="text-xl sm:2xl md:text-4xl font-bold">FirstnameLastname</h1>
+                    <h1 className="text-md sm:xl md:text-2xl pb-2">Interior architect and furniture designer</h1>
+                    <p>email@email.com</p>
+                    <p>City, Country</p>
+                    <button className="btn bg-blue-400 mt-4">Instagram</button>
                     </div>
                 </div>
             </div>
@@ -44,7 +42,7 @@ export default async function AboutPage(){
 
                     <div className="flex lg:w-1/2 flex-col mx-auto p-4">
                         <div className="flex w-full flex-wrap">
-                            <div className="flex w-1/2 lg:w-1/2 mx-auto">
+                            <div className="flex w-1/2 lg:w-1/2 mx-auto pr-1">
                                 <div className="form-control w-full">
                                     <label className="label">
                                         <span className="label-text">First name:</span>
@@ -53,7 +51,7 @@ export default async function AboutPage(){
                                     <input type="text" placeholder="John" className="input input-bordered w-full" />
                                 </div>
                             </div>
-                            <div className="flex w-1/2 lg:w-1/2 mx-auto">
+                            <div className="flex w-1/2 lg:w-1/2 mx-auto pl-1">
                                 <div className="form-control w-full">
                                     <label className="label">
                                         <span className="label-text">Last name:</span>
@@ -94,6 +92,7 @@ export default async function AboutPage(){
                                 </label>
                             </div>
                         </div>
+                        <button className="btn btn-primary">Send</button>
                     </div>
                     
                 </div>
