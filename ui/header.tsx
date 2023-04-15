@@ -1,10 +1,17 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export default function HeaderComponent(){
 
     return(
         <div className="navbar text-primary-content rounded-lg bg-gradient-to-t from-slate-300 to-slate-500">
             <div className="flex-1">
+                <Image 
+                    className="hidden sm:block w-16 h-12"
+                    src="/../public/images/bunnyLogoSmall.png"
+                    alt="logo"
+                    width={100} height={100}
+                />                
                 <Link href="/" className="btn btn-ghost normal-case text-xl">Design By Tiikasalo</Link>
             </div>
             <div className="flex-none">

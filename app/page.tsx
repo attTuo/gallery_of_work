@@ -7,7 +7,7 @@ export default async function HomePage(){
             <div className="container mx-auto px-5 py-2 lg:px-32 lg:py-4">
                 <Image 
                     className="block h-full w-full rounded-lg object-cover object-center"
-                    src="/../public/images/cupsBanner.jpg" 
+                    src="/../public/images/patternBanner.png" 
                     alt="cupBanner" 
                     width={1000} height={1000}
                 />
