@@ -8,7 +8,7 @@ export default function HeaderComponent(){
             <div className="flex-1">
                 <Image 
                     className="hidden sm:block w-16 h-12"
-                    src="/../public/images/bunnyLogoSmall.png"
+                    src="/../public/images/other/bunnyLogoSmall.png"
                     alt="logo"
                     width={100} height={100}
                 />                
@@ -34,8 +34,8 @@ export default function HeaderComponent(){
                         </li>
                         <li>
                             <Link
-                                href="/paintings"
-                            >Paintings</Link>
+                                href="/artwork"
+                            >Artwork</Link>
                         </li>
                         <li>
                             <Link

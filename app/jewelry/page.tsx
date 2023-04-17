@@ -10,25 +10,25 @@ export default async function JewelryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/necklace.jpg" 
+                                src="/../public/images/jewelry/necklace.jpg" 
                                 alt="necklace" 
-                                width={1000} height={1000}
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/dragon.jpg"
+                                src="/../public/images/jewelry/seashell2.jpg"
                                 alt="dragon" 
-                                width={300} height={250}
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/seashells.jpg"
+                                src="/../public/images/jewelry/seashells.jpg"
                                 alt="seashells"
-                                width={1000} height={1000}
+                                width={400} height={400}
                             />
                         </div>
                     </div>
@@ -36,33 +36,84 @@ export default async function JewelryPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/pins.png"
+                                src="/../public/images/jewelry/pins.png"
                                 alt="pins"
-                                width={1000} height={1000}
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/bracelet.jpg"
+                                src="/../public/images/jewelry/bracelet.jpg"
                                 alt="bracelet"
-                                width={1000} height={1000}
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/bunnyPins.jpg"
+                                src="/../public/images/jewelry/bunnyPins.jpg"
                                 alt="bunnyPins"
-                                width={1000} height={1000}
+                                width={400} height={400}
                             />
                         </div>
                     </div>
-                </div>
-                
-                
-            </div>
 
+                    <div className="flex w-1/2 flex-wrap">
+                        <div className="w-1/2 p-1 md:p-2">
+                            <Image 
+                                className="block h-full w-full rounded-lg object-cover object-center"
+                                src="/../public/images/jewelry/dragon.jpg" 
+                                alt="necklace" 
+                                width={400} height={400}
+                            />
+                        </div>
+                        <div className="w-1/2 p-1 md:p-2">
+                            <Image 
+                                className="block h-full w-full rounded-lg object-cover object-center"
+                                src="/../public/images/jewelry/butterflies.png"
+                                alt="dragon" 
+                                width={400} height={400}
+                            />
+                        </div>
+                        <div className="w-full p-1 md:p-2">
+                            <Image 
+                                className="block h-full w-full rounded-lg object-cover object-center"
+                                src="/../public/images/jewelry/planeEarrings.jpg"
+                                alt="seashells"
+                                width={400} height={400}
+                            />
+                        </div>
+                    </div>
+                    <div className="flex w-1/2 flex-wrap">
+                        <div className="w-full p-1 md:p-2">
+                            <Image 
+                                className="block h-full w-full rounded-lg object-cover object-center"
+                                src="/../public/images/jewelry/necklace2.jpg"
+                                alt="seashells"
+                                width={400} height={400}
+                            />
+                        </div>
+                        <div className="w-1/2 p-1 md:p-2">
+                            <Image 
+                                className="block h-full w-full rounded-lg object-cover object-center"
+                                src="/../public/images/jewelry/bunnyEarrings.jpg" 
+                                alt="necklace" 
+                                width={400} height={400}
+                            />
+                        </div>
+                        <div className="w-1/2 p-1 md:p-2">
+                            <Image 
+                                className="block h-full w-full rounded-lg object-cover object-center"
+                                src="/../public/images/jewelry/planes.png"
+                                alt="dragon" 
+                                width={400} height={400}
+                            />
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
         </div>        
     );
 }

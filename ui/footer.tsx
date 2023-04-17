@@ -8,7 +8,7 @@ export default function FooterComponent(){
                 <div className="flex">
                     <Image 
                         className="block w-12 h-10 rounded-lg flex"
-                        src="/../public/images/bunnyLogoSmall2.png"
+                        src="/../public/images/other/bunnyLogoSmall2.png"
                         alt="logo"
                         width={100} height={100}
                     />
