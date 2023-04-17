@@ -5,7 +5,7 @@ export default async function HomePage(){
     return(
         <div>
             <div className="container mx-auto px-5 py-2 lg:px-32 lg:py-4">
-                <div className="hero h-30 lg:h-72 bg-[url('../public/images/patternBanner.png')]">
+                <div className="hero h-30 lg:h-72 bg-[url('../public/images/art/patternBanner.png')]">
                     <div className="hero-overlay bg-opacity-40 rounded-lg"></div>
                     <div className="hero-content text-center ">
                         <div className="max-w-md">
@@ -21,25 +21,25 @@ export default async function HomePage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cups1.jpg" 
-                                alt="cups1" 
-                                width={1000} height={1000}
+                                src="/../public/images/other/ceramics.png" 
+                                alt="ceramicsImage" 
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cups2.jpg"
-                                alt="cups2" 
-                                width={300} height={250}
+                                src="/../public/images/jewelry/bunnyPins.jpg"
+                                alt="bunnyPinsImage" 
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cup1.jpg"
-                                alt="cup1"
-                                width={1000} height={1000}
+                                src="/../public/images/jewelry/necklace2.jpg"
+                                alt="necklaceImage"
+                                width={400} height={400}
                             />
                         </div>
                     </div>
@@ -47,25 +47,25 @@ export default async function HomePage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cup2.jpg"
-                                alt="cup2"
-                                width={1000} height={1000}
+                                src="/../public/images/cups/doubleCup2.png"
+                                alt="doubleCupImage"
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cups3.jpg"
-                                alt="cup3"
-                                width={1000} height={1000}
+                                src="/../public/images/other/fabric.png"
+                                alt="fabricImage"
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cups4.jpg"
-                                alt="cups4"
-                                width={1000} height={1000}
+                                src="/../public/images/cups/cupsStack.jpg"
+                                alt="cupsStackImage"
+                                width={400} height={400}
                             />
                         </div>
                     </div>
@@ -73,51 +73,51 @@ export default async function HomePage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cups5.jpg"
-                                alt="cups5"
-                                width={1000} height={1000}
+                                src="/../public/images/cups/cups4.jpg"
+                                alt="cups4Image"
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cups6.jpg"
-                                alt="cups6"
-                                width={1000} height={1000}
+                                src="/../public/images/cups/cups2.jpg"
+                                alt="cups2Image"
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/bunny2.jpg"
-                                alt="bunny2" 
-                                width={1000} height={1000}
+                                src="/../public/images/jewelry/seashells.jpg"
+                                alt="seashellsImage" 
+                                width={400} height={400}
                             />
                         </div>
                     </div>
                     <div className="flex w-1/2 flex-wrap">
-                        <div className="w-1/2 p-1 md:p-2">
+                    <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cupsStack.jpg"
-                                alt="cupsStack"
-                                width={1000} height={1000}
+                                src="/../public/images/art/mountains.jpg"
+                                alt="mountainsImage"
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/bunnyPins.jpg"
-                                alt="bunnyPins"
-                                width={1000} height={1000}
+                                src="/../public/images/jewelry/planes.png"
+                                alt="planesImage"
+                                width={400} height={400}
                             />
                         </div>
-                        <div className="w-full p-1 md:p-2">
+                        <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/dog.jpg"
-                                alt="dog"
-                                width={1000} height={1000}
+                                src="/../public/images/jewelry/butterflies.png"
+                                alt="butterfliesImage"
+                                width={400} height={400}
                             />
                         </div>
                     </div>

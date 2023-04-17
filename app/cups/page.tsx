@@ -11,25 +11,25 @@ export default async function CupsPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cups1.jpg" 
+                                src="/../public/images/cups/cups2.jpg" 
                                 alt="cups1" 
-                                width={1000} height={1000}
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cups2.jpg"
+                                src="/../public/images/cups/cups1.jpg"
                                 alt="cups2" 
-                                width={300} height={250}
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cup1.jpg"
+                                src="/../public/images/cups/doubleCup.png"
                                 alt="cup1"
-                                width={1000} height={1000}
+                                width={400} height={400}
                             />
                         </div>
                     </div>
@@ -37,25 +37,25 @@ export default async function CupsPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cup2.jpg"
+                                src="/../public/images/cups/cup1.jpg"
                                 alt="cup2"
-                                width={1000} height={1000}
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cups3.jpg"
+                                src="/../public/images/cups/cups3.jpg"
                                 alt="cup3"
-                                width={1000} height={1000}
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cups4.jpg"
+                                src="/../public/images/cups/cups4.jpg"
                                 alt="cups4"
-                                width={1000} height={1000}
+                                width={400} height={400}
                             />
                         </div>
                     </div>
@@ -63,51 +63,63 @@ export default async function CupsPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cups5.jpg"
+                                src="/../public/images/cups/cups5.jpg"
                                 alt="cups5"
-                                width={1000} height={1000}
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cups6.jpg"
+                                src="/../public/images/cups/cups6.jpg"
                                 alt="cups6"
-                                width={1000} height={1000}
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/bunny2.jpg"
-                                alt="bunny2" 
-                                width={1000} height={1000}
+                                src="/../public/images/cups/bunny1.jpg"
+                                alt="bunny1Image" 
+                                width={400} height={400}
                             />
                         </div>
                     </div>
                     <div className="flex w-1/2 flex-wrap">
-                        <div className="w-1/2 p-1 md:p-2">
+                        <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cupsStack.jpg"
-                                alt="cupsStack"
-                                width={1000} height={1000}
-                            />
-                        </div>
-                        <div className="w-1/2 p-1 md:p-2">
-                            <Image 
-                                className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/bunnyPins.jpg"
-                                alt="bunnyPins"
-                                width={1000} height={1000}
+                                src="/../public/images/cups/blueCup.jpg"
+                                alt="dog"
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/dog.jpg"
-                                alt="dog"
-                                width={1000} height={1000}
+                                src="/../public/images/cups/dripCup.jpg"
+                                alt="dripCup"
+                                width={400} height={400}
+                            />
+                        </div>
+                    </div>
+                    <div className="flex w-3/5 flex-wrap">
+                        <div className="w-full p-1 md:p-2">
+                            <Image 
+                                className="block h-full w-full rounded-lg object-cover object-center"
+                                src="/../public/images/cups/cup2.jpg"
+                                alt="dripCup"
+                                width={400} height={400}
+                            />
+                        </div>
+                    </div>
+                    <div className="flex w-2/5 flex-wrap">
+                        <div className="w-full p-1 md:p-2">
+                            <Image 
+                                className="block h-full w-full rounded-lg object-cover object-center"
+                                src="/../public/images/cups/handCup.png"
+                                alt="dripCup"
+                                width={400} height={400}
                             />
                         </div>
                     </div>

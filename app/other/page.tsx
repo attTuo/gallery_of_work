@@ -10,17 +10,17 @@ export default async function OtherPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/ceramics.png" 
+                                src="/../public/images/other/ceramics.png" 
                                 alt="ceramics" 
-                                width={1000} height={1000}
+                                width={400} height={400}
                             />
                         </div>
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/table.png"
+                                src="/../public/images/other/table.png"
                                 alt="table" 
-                                width={1000} height={1000}
+                                width={400} height={400}
                             />
                         </div>
                     </div>
@@ -28,9 +28,17 @@ export default async function OtherPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/fabric.png"
+                                src="/../public/images/other/fabric.png"
                                 alt="fabric"
-                                width={3000} height={3000}
+                                width={400} height={400}
+                            />
+                        </div>
+                        <div className="w-full p-1 md:p-2">
+                            <Image 
+                                className="block h-full w-full rounded-lg object-cover object-center"
+                                src="/../public/images/art/patternBanner.png"
+                                alt="fabric"
+                                width={400} height={400}
                             />
                         </div>
                         
