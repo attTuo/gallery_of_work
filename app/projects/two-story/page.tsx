@@ -16,7 +16,7 @@ export default async function TwoStoryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/outsideNight.png"
+                                src="/images/projects/outsideNight.png"
                                 alt="homeImage"
                                 width={400} height={400}
                             />
@@ -24,7 +24,7 @@ export default async function TwoStoryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/two-story/two1.png"
+                                src="/images/projects/two-story/two1.png"
                                 alt="homeImage"
                                 width={400} height={400}
                             />
@@ -32,7 +32,7 @@ export default async function TwoStoryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/two-story/two2.png"
+                                src="/images/projects/two-story/two2.png"
                                 alt="homeImage"
                                 width={400} height={400}
                             />
@@ -40,7 +40,7 @@ export default async function TwoStoryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/two-story/two3.png"
+                                src="/images/projects/two-story/two3.png"
                                 alt="homeImage"
                                 width={400} height={400}
                             />
@@ -48,7 +48,7 @@ export default async function TwoStoryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/two-story/two4.png"
+                                src="/images/projects/two-story/two4.png"
                                 alt="homeImage"
                                 width={400} height={400}
                             />
@@ -56,7 +56,7 @@ export default async function TwoStoryPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/two-story/two5.png"
+                                src="/images/projects/two-story/two5.png"
                                 alt="homeImage"
                                 width={800} height={800}
                             />
@@ -64,7 +64,7 @@ export default async function TwoStoryPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/two-story/two6.png"
+                                src="/images/projects/two-story/two6.png"
                                 alt="homeImage"
                                 width={800} height={800}
                             />
@@ -72,7 +72,7 @@ export default async function TwoStoryPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/two-story/two7.png"
+                                src="/images/projects/two-story/two7.png"
                                 alt="homeImage"
                                 width={800} height={800}
                             />

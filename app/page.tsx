@@ -5,7 +5,7 @@ export default async function HomePage(){
     return(
         <div>
             <div className="container mx-auto px-5 py-2 lg:px-32 lg:py-4">
-                <div className="hero h-30 lg:h-72 bg-[url('../public/images/art/patternBanner.png')]">
+                <div className="hero h-30 lg:h-72 bg-[url('/images/art/patternBanner.png')]">
                     <div className="hero-overlay bg-opacity-10 rounded-lg"></div>
                     <div className="text-center ">
                         <div className="max-w-md">
@@ -21,7 +21,7 @@ export default async function HomePage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/other/ceramics.png" 
+                                src="/images/other/ceramics.png" 
                                 alt="ceramicsImage" 
                                 width={400} height={400}
                             />
@@ -29,7 +29,7 @@ export default async function HomePage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/bunnyPins.jpg"
+                                src="/images/jewelry/bunnyPins.jpg"
                                 alt="bunnyPinsImage" 
                                 width={400} height={400}
                             />
@@ -37,7 +37,7 @@ export default async function HomePage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/necklace2.jpg"
+                                src="/images/jewelry/necklace2.jpg"
                                 alt="necklaceImage"
                                 width={400} height={400}
                             />
@@ -47,7 +47,7 @@ export default async function HomePage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cups/doubleCup2.png"
+                                src="/images/cups/doubleCup2.png"
                                 alt="doubleCupImage"
                                 width={400} height={400}
                             />
@@ -55,7 +55,7 @@ export default async function HomePage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/other/fabric.png"
+                                src="/images/other/fabric.png"
                                 alt="fabricImage"
                                 width={400} height={400}
                             />
@@ -63,7 +63,7 @@ export default async function HomePage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cups/cupsStack.jpg"
+                                src="/images/cups/cupsStack.jpg"
                                 alt="cupsStackImage"
                                 width={400} height={400}
                             />
@@ -73,7 +73,7 @@ export default async function HomePage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cups/cups4.jpg"
+                                src="/images/cups/cups4.jpg"
                                 alt="cups4Image"
                                 width={400} height={400}
                             />
@@ -81,7 +81,7 @@ export default async function HomePage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/cups/cups2.jpg"
+                                src="/images/cups/cups2.jpg"
                                 alt="cups2Image"
                                 width={400} height={400}
                             />
@@ -89,7 +89,7 @@ export default async function HomePage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/seashells.jpg"
+                                src="/images/jewelry/seashells.jpg"
                                 alt="seashellsImage" 
                                 width={400} height={400}
                             />
@@ -99,7 +99,7 @@ export default async function HomePage(){
                     <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/art/mountains.jpg"
+                                src="/images/art/mountains.jpg"
                                 alt="mountainsImage"
                                 width={400} height={400}
                             />
@@ -107,7 +107,7 @@ export default async function HomePage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/planes.png"
+                                src="/images/jewelry/planes.png"
                                 alt="planesImage"
                                 width={400} height={400}
                             />
@@ -115,7 +115,7 @@ export default async function HomePage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/butterflies.png"
+                                src="/images/jewelry/butterflies.png"
                                 alt="butterfliesImage"
                                 width={400} height={400}
                             />

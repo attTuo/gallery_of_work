@@ -16,7 +16,7 @@ export default async function LibraryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/librarySeats.jpg"
+                                src="/images/projects/librarySeats.jpg"
                                 alt="libraryImage"
                                 width={400} height={400}
                             />
@@ -24,7 +24,7 @@ export default async function LibraryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/library/library1.jpg"
+                                src="/images/projects/library/library1.jpg"
                                 alt="libraryImage"
                                 width={400} height={400}
                             />
@@ -32,7 +32,7 @@ export default async function LibraryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/library/library2.jpg"
+                                src="/images/projects/library/library2.jpg"
                                 alt="libraryImage"
                                 width={400} height={400}
                             />
@@ -40,7 +40,7 @@ export default async function LibraryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/library/library3.jpg"
+                                src="/images/projects/library/library3.jpg"
                                 alt="libraryImage"
                                 width={400} height={400}
                             />
@@ -48,7 +48,7 @@ export default async function LibraryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/library/library4.jpg"
+                                src="/images/projects/library/library4.jpg"
                                 alt="libraryImage"
                                 width={400} height={400}
                             />
@@ -56,7 +56,7 @@ export default async function LibraryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/library/library5.png"
+                                src="/images/projects/library/library5.png"
                                 alt="libraryImage"
                                 width={400} height={400}
                             />
@@ -64,7 +64,7 @@ export default async function LibraryPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/library/library6.png"
+                                src="/images/projects/library/library6.png"
                                 alt="libraryImage"
                                 width={800} height={800}
                             />
@@ -72,7 +72,7 @@ export default async function LibraryPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/library/library7.png"
+                                src="/images/projects/library/library7.png"
                                 alt="libraryImage"
                                 width={800} height={800}
                             />

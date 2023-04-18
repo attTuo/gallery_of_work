@@ -16,7 +16,7 @@ export default async function CoffeePage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/deerPainting.png"
+                                src="/images/projects/deerPainting.png"
                                 alt="coffeeImage"
                                 width={400} height={400}
                             />
@@ -24,7 +24,7 @@ export default async function CoffeePage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/coffee-house/coffee1.png"
+                                src="/images/projects/coffee-house/coffee1.png"
                                 alt="coffeeImage"
                                 width={400} height={400}
                             />
@@ -32,7 +32,7 @@ export default async function CoffeePage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/coffee-house/coffee2.png"
+                                src="/images/projects/coffee-house/coffee2.png"
                                 alt="coffeeImage"
                                 width={400} height={400}
                             />
@@ -40,7 +40,7 @@ export default async function CoffeePage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/coffee-house/coffee3.png"
+                                src="/images/projects/coffee-house/coffee3.png"
                                 alt="coffeeImage"
                                 width={400} height={400}
                             />
@@ -48,7 +48,7 @@ export default async function CoffeePage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/coffee-house/coffee4.png"
+                                src="/images/projects/coffee-house/coffee4.png"
                                 alt="coffeeImage"
                                 width={400} height={400}
                             />
@@ -56,7 +56,7 @@ export default async function CoffeePage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/coffee-house/coffee5.png"
+                                src="/images/projects/coffee-house/coffee5.png"
                                 alt="coffeeImage"
                                 width={400} height={400}
                             />
@@ -64,7 +64,7 @@ export default async function CoffeePage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/coffee-house/coffee6.png"
+                                src="/images/projects/coffee-house/coffee6.png"
                                 alt="coffeeImage"
                                 width={800} height={800}
                             />
@@ -72,7 +72,7 @@ export default async function CoffeePage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/projects/coffee-house/coffee7.png"
+                                src="/images/projects/coffee-house/coffee7.png"
                                 alt="coffeeImage"
                                 width={800} height={800}
                             />

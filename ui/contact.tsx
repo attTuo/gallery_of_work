@@ -12,7 +12,7 @@ export default function ContactComponent(){
                     <div className="hidden lg:flex lg:w-1/2 flex-wrap p-4 pt-6">
                         <Image 
                             className="rounded-lg object-cover h-96 object-center w-full"
-                            src="/../public/images/cups/bunny2.jpg" 
+                            src="/images/cups/bunny2.jpg" 
                             alt="bunnyImage" 
                             width={400} height={400}
                         />  

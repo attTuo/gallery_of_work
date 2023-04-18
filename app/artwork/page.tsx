@@ -10,7 +10,7 @@ export default async function PaintingsPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/art/deer.jpg" 
+                                src="/images/art/deer.jpg" 
                                 alt="deerImage" 
                                 width={400} height={400}
                             />
@@ -18,7 +18,7 @@ export default async function PaintingsPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/art/skull.jpg"
+                                src="/images/art/skull.jpg"
                                 alt="skullImage" 
                                 width={400} height={400}
                             />
@@ -26,7 +26,7 @@ export default async function PaintingsPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/art/drawing.jpg"
+                                src="/images/art/drawing.jpg"
                                 alt="drawingImage"
                                 width={400} height={400}
                             />
@@ -36,7 +36,7 @@ export default async function PaintingsPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/art/colorfull.jpg"
+                                src="/images/art/colorfull.jpg"
                                 alt="colorfullImage"
                                 width={400} height={400}
                             />
@@ -44,7 +44,7 @@ export default async function PaintingsPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/art/drawing2.jpg"
+                                src="/images/art/drawing2.jpg"
                                 alt="drawing2Image"
                                 width={400} height={400}
                             />
@@ -52,7 +52,7 @@ export default async function PaintingsPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/art/mountains.jpg"
+                                src="/images/art/mountains.jpg"
                                 alt="mountainsImage"
                                 width={400} height={400}
                             />
@@ -62,7 +62,7 @@ export default async function PaintingsPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/art/pineapples.jpg"
+                                src="/images/art/pineapples.jpg"
                                 alt="pineapplesImage"
                                 width={400} height={400}
                             />
