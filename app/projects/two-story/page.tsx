@@ -7,7 +7,7 @@ export default async function TwoStoryPage(){
         <div>
             
             <div className="flex-none fixed t-10 r-10">
-                <Link href="/projects" className="btn btn-primary">Back to projects</Link>
+                <Link href="/projects" className="btn btn-primary bg-yellow-200">Back to projects</Link>
             </div>
           
             <div className="container mx-auto px-5 py-2 lg:px-32 lg:py-4">
