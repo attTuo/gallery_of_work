@@ -29,7 +29,7 @@ export default async function AboutPage(){
 
             <div className="container mx-auto px-5 py-2 lg:px-32 text-center pt-4 pb-6">
                 <p className="text-4xl my-4">About me</p>
-                <p className="text-md pb-4">"Color brings smile to life and as a interior architect I want to bring out some of it in my projects. My goal is to create natural glimmers of color in my design plans, because without color life would be bleak!"</p> 
+                <p className="text-md pb-4">&quot;Color brings smile to life and as a interior architect I want to bring out some of it in my projects. My goal is to create natural glimmers of color in my design plans, because without color life would be bleak!&quot;</p> 
             </div>
             
             <ContactComponent />
