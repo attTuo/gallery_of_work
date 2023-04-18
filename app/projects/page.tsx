@@ -19,7 +19,7 @@ export default async function ProjectsPage(){
                             <h1 className="text-2xl font-bold mb-1">Library of Perniö</h1>
                             <p className=" text-lg mb-2">Thesis</p>
                             <p className="mb-2">Interior design plan for a library.</p>
-                            <p className="mb-4"> "The aim of the thesis was to make a conceptual plan of modifications for the library of Perniö."</p>
+                            <p className="mb-4"> &quot;The aim of the thesis was to make a conceptual plan of modifications for the library of Perniö.&quot;</p>
                             <Link href="/projects/library" className="btn btn-primary bg-yellow-200">See project images</Link>
                         </div>
                     </div>
@@ -36,7 +36,7 @@ export default async function ProjectsPage(){
                         <div className="block w-1/2">
                             <h1 className="text-2xl font-bold mb-4">Coffee house</h1>
                             <p className="mb-2">Interior design plan for a coffee house.</p>
-                            <p className="mb-4">"The goal of the project was to make the space elegant, youthful, relaxing and attractive. The goal was to also have an "eye catcher" -element in the space.</p>
+                            <p className="mb-4">&quot;The goal of the project was to make the space elegant, youthful, relaxing and attractive. The goal was to also have an &quot;eye catcher&quot; -element in the space.&quot;</p>
                             <Link href="/projects/coffee-house" className="btn btn-primary bg-yellow-200">See project images</Link>
                         </div>
                     </div>
@@ -53,7 +53,7 @@ export default async function ProjectsPage(){
                         <div className="block w-1/2">
                             <h1 className="text-2xl font-bold mb-4">Two-story house</h1>
                             <p className="mb-2">Interior design plan for a leisure home.</p>
-                            <p className="mb-4"> "An Archicad practice project in which the goal was to make a leisure home."</p>
+                            <p className="mb-4"> &quot;An Archicad practice project in which the goal was to make a leisure home.&quot;</p>
                             <Link href="/projects/two-story" className="btn btn-primary bg-yellow-200">See project images</Link>
                         </div>
                     </div>
