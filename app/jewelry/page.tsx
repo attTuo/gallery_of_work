@@ -19,7 +19,7 @@ export default async function JewelryPage(){
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
                                 src="/images/jewelry/seashell2.jpg"
-                                alt="dragon" 
+                                alt="seashell2" 
                                 width={400} height={400}
                             />
                         </div>
@@ -64,7 +64,7 @@ export default async function JewelryPage(){
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
                                 src="/images/jewelry/dragon.jpg" 
-                                alt="necklace" 
+                                alt="dragon" 
                                 width={400} height={400}
                             />
                         </div>
@@ -72,7 +72,7 @@ export default async function JewelryPage(){
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
                                 src="/images/jewelry/butterflies.png"
-                                alt="dragon" 
+                                alt="butterflies" 
                                 width={400} height={400}
                             />
                         </div>
@@ -80,7 +80,7 @@ export default async function JewelryPage(){
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
                                 src="/images/jewelry/planeEarrings.jpg"
-                                alt="seashells"
+                                alt="paneEarrings"
                                 width={400} height={400}
                             />
                         </div>
@@ -90,7 +90,7 @@ export default async function JewelryPage(){
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
                                 src="/images/jewelry/necklace2.jpg"
-                                alt="seashells"
+                                alt="necklace2"
                                 width={400} height={400}
                             />
                         </div>
@@ -98,7 +98,7 @@ export default async function JewelryPage(){
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
                                 src="/images/jewelry/bunnyEarrings.jpg" 
-                                alt="necklace" 
+                                alt="bunnyEarrings" 
                                 width={400} height={400}
                             />
                         </div>
@@ -106,7 +106,7 @@ export default async function JewelryPage(){
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
                                 src="/images/jewelry/planes.png"
-                                alt="dragon" 
+                                alt="planes" 
                                 width={400} height={400}
                             />
                         </div>
