@@ -12,7 +12,7 @@ export default async function CupsPage(){
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
                                 src="/images/cups/cups2.jpg" 
-                                alt="cups1" 
+                                alt="cups2" 
                                 width={400} height={400}
                             />
                         </div>
@@ -20,7 +20,7 @@ export default async function CupsPage(){
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
                                 src="/images/cups/cups1.jpg"
-                                alt="cups2" 
+                                alt="cups1" 
                                 width={400} height={400}
                             />
                         </div>
@@ -37,8 +37,8 @@ export default async function CupsPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/images/cups/cup1.jpg"
-                                alt="cup2"
+                                src="/images/cups/cup1.JPG"
+                                alt="cup1"
                                 width={400} height={400}
                             />
                         </div>
@@ -46,7 +46,7 @@ export default async function CupsPage(){
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
                                 src="/images/cups/cups3.jpg"
-                                alt="cup3"
+                                alt="cups3"
                                 width={400} height={400}
                             />
                         </div>
@@ -90,7 +90,7 @@ export default async function CupsPage(){
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
                                 src="/images/cups/blueCup.jpg"
-                                alt="dog"
+                                alt="blueCup"
                                 width={400} height={400}
                             />
                         </div>
@@ -107,8 +107,8 @@ export default async function CupsPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/images/cups/cup2.jpg"
-                                alt="dripCup"
+                                src="/images/cups/cup2.JPG"
+                                alt="cup2"
                                 width={400} height={400}
                             />
                         </div>
@@ -118,7 +118,7 @@ export default async function CupsPage(){
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
                                 src="/images/cups/handCup.png"
-                                alt="dripCup"
+                                alt="handCup"
                                 width={400} height={400}
                             />
                         </div>

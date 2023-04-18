@@ -12,7 +12,7 @@ export default async function ProjectsPage(){
                         <Image  
                             className="block w-1/2 rounded-lg shadow-2xl"
                             src="/images/projects/librarySeats.jpg"
-                            alt="projectImage"
+                            alt="librarySeats"
                             width={400} height={400}
                         />
                         <div className="block w-1/2">
@@ -30,7 +30,7 @@ export default async function ProjectsPage(){
                         <Image  
                             className="block w-1/2 rounded-lg shadow-2xl"
                             src="/images/projects/deerPainting.png"
-                            alt="projectImage"
+                            alt="deerPainting"
                             width={400} height={400}
                         />
                         <div className="block w-1/2">
@@ -47,7 +47,7 @@ export default async function ProjectsPage(){
                         <Image  
                             className=" block w-1/2 rounded-lg shadow-2xl"
                             src="/images/projects/outsideNight.png"
-                            alt="projectImage2"
+                            alt="outsideNight"
                             width={400} height={400}
                         />
                         <div className="block w-1/2">

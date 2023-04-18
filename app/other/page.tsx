@@ -37,7 +37,7 @@ export default async function OtherPage(){
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
                                 src="/images/art/patternBanner.png"
-                                alt="fabric"
+                                alt="pattern"
                                 width={400} height={400}
                             />
                         </div>
