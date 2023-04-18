@@ -10,7 +10,7 @@ export default async function OtherPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/other/ceramics.png" 
+                                src="/images/other/ceramics.png" 
                                 alt="ceramics" 
                                 width={400} height={400}
                             />
@@ -18,7 +18,7 @@ export default async function OtherPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/other/table.png"
+                                src="/images/other/table.png"
                                 alt="table" 
                                 width={400} height={400}
                             />
@@ -28,7 +28,7 @@ export default async function OtherPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/other/fabric.png"
+                                src="/images/other/fabric.png"
                                 alt="fabric"
                                 width={400} height={400}
                             />
@@ -36,7 +36,7 @@ export default async function OtherPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/art/patternBanner.png"
+                                src="/images/art/patternBanner.png"
                                 alt="fabric"
                                 width={400} height={400}
                             />

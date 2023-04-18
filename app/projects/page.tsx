@@ -11,7 +11,7 @@ export default async function ProjectsPage(){
                     <div className="hero-content flex-row">
                         <Image  
                             className="block w-1/2 rounded-lg shadow-2xl"
-                            src="/../public/images/projects/librarySeats.jpg"
+                            src="/images/projects/librarySeats.jpg"
                             alt="projectImage"
                             width={400} height={400}
                         />
@@ -29,7 +29,7 @@ export default async function ProjectsPage(){
                     <div className="hero-content flex-row-reverse">
                         <Image  
                             className="block w-1/2 rounded-lg shadow-2xl"
-                            src="/../public/images/projects/deerPainting.png"
+                            src="/images/projects/deerPainting.png"
                             alt="projectImage"
                             width={400} height={400}
                         />
@@ -46,7 +46,7 @@ export default async function ProjectsPage(){
                     <div className="hero-content flex-row">
                         <Image  
                             className=" block w-1/2 rounded-lg shadow-2xl"
-                            src="/../public/images/projects/outsideNight.png"
+                            src="/images/projects/outsideNight.png"
                             alt="projectImage2"
                             width={400} height={400}
                         />

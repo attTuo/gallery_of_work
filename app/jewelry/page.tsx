@@ -10,7 +10,7 @@ export default async function JewelryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/necklace.jpg" 
+                                src="/images/jewelry/necklace.jpg" 
                                 alt="necklace" 
                                 width={400} height={400}
                             />
@@ -18,7 +18,7 @@ export default async function JewelryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/seashell2.jpg"
+                                src="/images/jewelry/seashell2.jpg"
                                 alt="dragon" 
                                 width={400} height={400}
                             />
@@ -26,7 +26,7 @@ export default async function JewelryPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/seashells.jpg"
+                                src="/images/jewelry/seashells.jpg"
                                 alt="seashells"
                                 width={400} height={400}
                             />
@@ -36,7 +36,7 @@ export default async function JewelryPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/pins.png"
+                                src="/images/jewelry/pins.png"
                                 alt="pins"
                                 width={400} height={400}
                             />
@@ -44,7 +44,7 @@ export default async function JewelryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/bracelet.jpg"
+                                src="/images/jewelry/bracelet.jpg"
                                 alt="bracelet"
                                 width={400} height={400}
                             />
@@ -52,7 +52,7 @@ export default async function JewelryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/bunnyPins.jpg"
+                                src="/images/jewelry/bunnyPins.jpg"
                                 alt="bunnyPins"
                                 width={400} height={400}
                             />
@@ -63,7 +63,7 @@ export default async function JewelryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/dragon.jpg" 
+                                src="/images/jewelry/dragon.jpg" 
                                 alt="necklace" 
                                 width={400} height={400}
                             />
@@ -71,7 +71,7 @@ export default async function JewelryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/butterflies.png"
+                                src="/images/jewelry/butterflies.png"
                                 alt="dragon" 
                                 width={400} height={400}
                             />
@@ -79,7 +79,7 @@ export default async function JewelryPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/planeEarrings.jpg"
+                                src="/images/jewelry/planeEarrings.jpg"
                                 alt="seashells"
                                 width={400} height={400}
                             />
@@ -89,7 +89,7 @@ export default async function JewelryPage(){
                         <div className="w-full p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/necklace2.jpg"
+                                src="/images/jewelry/necklace2.jpg"
                                 alt="seashells"
                                 width={400} height={400}
                             />
@@ -97,7 +97,7 @@ export default async function JewelryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/bunnyEarrings.jpg" 
+                                src="/images/jewelry/bunnyEarrings.jpg" 
                                 alt="necklace" 
                                 width={400} height={400}
                             />
@@ -105,7 +105,7 @@ export default async function JewelryPage(){
                         <div className="w-1/2 p-1 md:p-2">
                             <Image 
                                 className="block h-full w-full rounded-lg object-cover object-center"
-                                src="/../public/images/jewelry/planes.png"
+                                src="/images/jewelry/planes.png"
                                 alt="dragon" 
                                 width={400} height={400}
                             />

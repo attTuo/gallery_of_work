@@ -12,7 +12,7 @@ export default async function AboutPage(){
                 <div className="hero-content flex-row">
                     <Image 
                         className="rounded-lg object-cover object-center w-1/2 lg:w-1/3 max-h-96"
-                        src="/../public/images/other/profile.jpg" 
+                        src="/images/other/profile.jpg" 
                         alt="aboutPicture" 
                         width={400} height={400}
                     />
