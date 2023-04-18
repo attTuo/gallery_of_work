@@ -4,7 +4,7 @@ export default function FooterComponent(){
 
     return(
         <div>
-            <footer className="footer footer-center p-1 bg-base-300 text-base-content flex-row rounded-lg">
+            <footer className="footer footer-center p-1 bg-yellow-200 text-base-content flex-row rounded-lg">
                 <div className="flex">
                     <Image 
                         className="block w-12 h-10 rounded-lg flex"

@@ -6,11 +6,11 @@ export default async function HomePage(){
         <div>
             <div className="container mx-auto px-5 py-2 lg:px-32 lg:py-4">
                 <div className="hero h-30 lg:h-72 bg-[url('../public/images/art/patternBanner.png')]">
-                    <div className="hero-overlay bg-opacity-40 rounded-lg"></div>
+                    <div className="hero-overlay bg-opacity-30 rounded-lg"></div>
                     <div className="hero-content text-center ">
                         <div className="max-w-md">
                         <h1 className="mb-2 lg:mb-5 text-4xl lg:text-5xl font-bold">Gallery of work</h1>
-                        <p className="mb-5 text-lg lg:text-2xl">Name Lastname</p>
+                        <p className="mb-5 text-lg lg:text-2xl">Elisa Tiikasalo</p>
                         </div>
                     </div>
                 </div>

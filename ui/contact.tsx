@@ -6,7 +6,7 @@ export default function ContactComponent(){
 
     return(
         <div>
-            <div className="container mx-auto px-5 py-2 lg:px-16 bg-slate-300 rounded-lg text-center pt-4 pb-6">
+            <div className="container mx-auto px-5 py-2 lg:px-16 bg-gray-200 rounded-lg text-center pt-4 pb-6">
                 <p className="text-4xl mt-4 mb-8">Contact</p>
                 <div className="-m-1 flex flex-wrap md:-m-2">
                     <div className="hidden lg:flex lg:w-1/2 flex-wrap p-4 pt-6">
@@ -54,7 +54,6 @@ export default function ContactComponent(){
                                 <div className="form-control w-full">
                                     <label className="label">
                                         <span className="label-text">Subject:</span>
-                                        <span className="label-text-alt">*</span>
                                     </label>
                                     <input type="text" placeholder="Subject of the message" className="input input-bordered w-full" />
                                 </div>
@@ -71,7 +70,7 @@ export default function ContactComponent(){
                                     </label>
                                 </div>
                             </div>
-                            <button type="submit" className="btn btn-primary w-full">Send</button>
+                            <button className="btn btn-primary bg-yellow-200 w-full">Send</button>
                         </form>
                     </div>  
                 </div>

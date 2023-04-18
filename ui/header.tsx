@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function HeaderComponent(){
 
     return(
-        <div className="navbar text-primary-content rounded-lg bg-gradient-to-t from-slate-300 to-slate-500">
+        <div className="navbar text-primary-content rounded-lg bg-yellow-200">
             <div className="flex-1">
                 <Image 
                     className="hidden sm:block w-16 h-12"
