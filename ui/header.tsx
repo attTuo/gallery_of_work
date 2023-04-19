@@ -12,7 +12,7 @@ export default function HeaderComponent(){
                     alt="logo"
                     width={100} height={100}
                 />                
-                <Link href="/" className="btn btn-ghost normal-case text-xl">Design By Tiikasalo</Link>
+                <Link href="/" className="btn btn-ghost normal-case text-sm sm:text-xl">Design By Tiikasalo</Link>
             </div>
             <div className="flex-none">
                 <ul className="menu menu-horizontal px-1">
