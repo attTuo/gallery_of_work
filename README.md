@@ -7,4 +7,4 @@
 - Responsive to all screen sizes
 - Easy to use navigation
 
-<img alt="frontPageImage" src="/images/other/frontPageSs" height="500px">
+<img alt="frontPageImage" src="/images/other/frontPageSs.png" height="500px">
