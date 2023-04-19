@@ -1,6 +1,6 @@
 # Gallery of work
 
-*Fully responsive NextJS web application created to show off work by a friend of mine. Application features gallery pages for different kinds of works, as well as a about page and a page for interior design projects*
+*Fully responsive NextJS web application created to show off work by a friend of mine. Application features gallery pages for different kinds of works, as well as an about page and a page for interior design projects*
 
 - Made with NextJS, TailwindCss, and daisyUI components
 - Application uses Next 13 App Router (beta)
